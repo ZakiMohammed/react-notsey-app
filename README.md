@@ -2,6 +2,8 @@
 
 React notes app (notsey) getting started.
 
+![](https://raw.githubusercontent.com/ZakiMohammed/react-notsey-app/master/banner.png)
+
 ## Folders:
 
 ```
