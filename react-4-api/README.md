@@ -11,11 +11,11 @@ npm run dev
 
 ```
 npm create vite@latest
-# project name: aspire-note-app
+# project name: notesy-app
 # framework: react
 # variant: JavaScript + SWC
 
-cd aspire-note-app
+cd notesy-app
 npm i
 npm run dev
 ```

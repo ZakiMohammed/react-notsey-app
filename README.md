@@ -35,7 +35,7 @@ npm create vite@latest
 # framework: react
 # variant: JavaScript + SWC
 
-cd aspire-note-app
+cd notesy-app
 npm i
 npm run dev
 ```
