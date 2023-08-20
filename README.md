@@ -4,6 +4,12 @@ React notes app (notsey) getting started.
 
 ![](https://raw.githubusercontent.com/ZakiMohammed/react-notsey-app/master/banner.png)
 
+___
+
+Check out the CodeOmelet blog post for this project.
+
+Link: https://codeomelet.com/posts/react-journey-part-1-getting-started
+
 ## Folders:
 
 ```

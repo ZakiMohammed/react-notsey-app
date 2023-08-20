@@ -11,6 +11,7 @@ npm run dev
 
 ```
 npm create vite@latest
+
 # project name: notesy-app
 # framework: react
 # variant: JavaScript + SWC
@@ -25,8 +26,5 @@ npm run dev
 ```
 npm i bootstrap
 npm i bootswatch
-
-npm i uuid
-
 npm i react-icons
 ```

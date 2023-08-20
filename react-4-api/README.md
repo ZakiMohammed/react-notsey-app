@@ -11,6 +11,7 @@ npm run dev
 
 ```
 npm create vite@latest
+
 # project name: notesy-app
 # framework: react
 # variant: JavaScript + SWC
@@ -25,8 +26,25 @@ npm run dev
 ```
 npm i bootstrap
 npm i bootswatch
-
-npm i uuid
-
 npm i react-icons
+npm i uuid
+npm i axios
 ```
+
+## JSON Server
+
+Install `json-server` globally:
+
+```
+npm install -g json-server
+```
+
+Add npm script in package.json file:
+
+```
+"scripts": {
+  "server": "json-server server/db.json --config server/json-server.json"
+}
+```
+
+Read about json-server from here https://www.npmjs.com/package/json-server.
