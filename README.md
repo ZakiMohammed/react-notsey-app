@@ -6,9 +6,13 @@ React notes app (notsey) getting started.
 
 ___
 
-Check out the CodeOmelet blog post for this project.
+Check out the CodeOmelet blog posts for this project:
 
-Link: https://codeomelet.com/posts/react-journey-part-1-getting-started
+- [React Journey: Part 1 - Getting Started](https://codeomelet.com/posts/react-journey-part-1-getting-started)
+- [React Journey: Part 2 - States, Props, Events and Hooks](https://codeomelet.com/posts/react-journey-part-1-getting-started)
+- [React Journey: Part 3 - React Routes](https://codeomelet.com/posts/react-journey-part-3-react-routes)
+- [React Journey: Part 4 - Working with Web API](https://codeomelet.com/posts/react-journey-part-4-working-with-web-api)
+- [React Journey: Part 5 - Context API](https://codeomelet.com/posts/react-journey-part-5-context-api)
 
 ## Folders:
 
